@@ -29,4 +29,4 @@ func main(){
 
 ## Docs
 
-You can view the full documentation on `pkg.go.dev`!
+You can view the full documentation on [`pkg.go.dev`](https://pkg.go.dev/github.com/Scientific-Guy/bluefoxgo)!
