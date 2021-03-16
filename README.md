@@ -23,7 +23,7 @@ func main(){
         return
     }
 
-    fmt.Println("Sucess!", server);
+    fmt.Println("Success!", server);
 }
 ```
 
